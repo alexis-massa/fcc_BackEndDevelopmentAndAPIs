@@ -47,28 +47,4 @@ app.route('/name')
   .post((req, res) => { res.json({ name: `${req.body.first} ${req.body.last}` }) })
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 module.exports = app;
