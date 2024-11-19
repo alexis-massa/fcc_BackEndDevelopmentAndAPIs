@@ -1,0 +1,29 @@
+{
+  "name": "fcc-learn-npm-package-json",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
+  },
+  "description": "This is the lesson project for FreeCodeCamp's NPM crash course",
+  "bugs": {
+    "url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
+  },
+  "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
+  "version": "1.0.0",
+  "keywords": [
+    "NPM",
+    "course",
+    "freecodecamp",
+    "Learn",
+    "Package management"
+  ],
+  "author": "Alexis Massa",
+  "license": "MIT"
+}
