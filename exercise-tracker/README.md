@@ -5,7 +5,7 @@ Build a full stack JavaScript app that is functionally similar to this: https://
 Your responses should have the following structures.
 
 Exercise:
-```json
+```js
 {
   username: "fcc_test",
   description: "test",
@@ -16,7 +16,7 @@ Exercise:
 ```
 
 User:
-```json
+```js
 {
   username: "fcc_test",
   _id: "5fb5853f734231456ccb3b05"
@@ -24,7 +24,7 @@ User:
 ```
 
 Log:
-```json
+```js
 {
   username: "fcc_test",
   count: 1,
